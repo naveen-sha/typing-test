@@ -1,5 +1,9 @@
 const quotes = [
-  "nishu suiiii  hai padhna likhna kuch ni bas lptop lelega ata jata kuch nhi hai. "
+  "hey there you can write this in your own way.",
+  "if you gone to buy something without look at the price tag.",
+  "first you want to able to do work without look at the clock.",
+  "if you want to be successful, you have to be willing to do things that unsuccessful people are not willing to do.",
+  "the only way to do great work is to love what you do.",
 ];
 
 const quoteDisplay = document.getElementById("quoteDisplay");
