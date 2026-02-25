@@ -3,7 +3,7 @@ const quotes = [
   "if you gone to buy something without look at the price tag.",
   "first you want to able to do work without look at the clock.",
   "if you want to be successful, you have to be willing to do things that unsuccessful people are not willing to do.",
-  "the only way to do great work is to love what you do.",
+  "the only way to do great work is to love what you do."
 ];
 
 const quoteDisplay = document.getElementById("quoteDisplay");
